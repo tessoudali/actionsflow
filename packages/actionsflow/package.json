@@ -85,7 +85,7 @@
     "lodash.clonedeep": "^4.5.0",
     "lodash.get": "^4.4.2",
     "loglevel": "^1.6.8",
-    "mailparser": "^3.0.0",
+    "mailparser": "^3.7.5",
     "package-json": "^6.5.0",
     "promise.allsettled": "^1.0.2",
     "resolve-cwd": "^3.0.0",
